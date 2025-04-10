@@ -192,7 +192,7 @@
 
             <!-- Add your profile picture here -->
 
-            <img src="/storage/emulated/0/Pictures/ImgCompressor/IMG_20250329_210524_248_1.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="/my photo.jpg" alt="Your Profile Picture" class="profile-picture">
 
             <h1>S Rajeswari</h1>
 
